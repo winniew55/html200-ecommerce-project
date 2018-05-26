@@ -67,7 +67,11 @@ h3 {
 }
 
 ul {
-  background-color: darkgrey;
+  background-color:burlywood;
   text-align: center; 
   padding: 2rem;
+}
+
+.item-container{
+  display: flex;
 }
