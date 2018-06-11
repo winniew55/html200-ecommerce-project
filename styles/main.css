@@ -28,7 +28,7 @@ nav a:hover {
 }*/
 
 h1 .logo-w {
-  font-size: 2rem;
+  font-size: 1.5rem;
   display: inline-flex;
   padding:1rem;
   
@@ -90,14 +90,17 @@ form {
 html {
   width:100%;
   }
-
-  nav{
+  
+  nav, ul, li{
     display: block;
   }
+  
   .container{
     display:block;
     }
+  
 .item-container{
   display: flex;
 }
+  
 }
